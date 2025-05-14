@@ -1,0 +1,6 @@
+set(APP_NAME "MyToDoList")
+set(APP_VERSION "1.0.0")
+set(ICON_NAME "app_icon")
+set(COPYRIGHT "Copyright © 2025 Tokareva Varvara")
+set(IDENTIFIER "")
+set(QT_COMPONENTS Core Widgets)
