@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/varezhka/Documents/kursach/ToDoList/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/varezhka/Documents/kursach/ToDoList/build/ToDoList_autogen/include -I/home/varezhka/Documents/kursach/ToDoList -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -std=gnu++17 -fPIC -o CMakeFiles/ToDoList.dir/ToDoList_autogen/mocs_compilation.cpp.o -c /home/varezhka/Documents/kursach/ToDoList/build/ToDoList_autogen/mocs_compilation.cpp",
+  "file": "/home/varezhka/Documents/kursach/ToDoList/build/ToDoList_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/ToDoList.dir/ToDoList_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/varezhka/Documents/kursach/ToDoList/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/varezhka/Documents/kursach/ToDoList/build/ToDoList_autogen/include -I/home/varezhka/Documents/kursach/ToDoList -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -std=gnu++17 -fPIC -o CMakeFiles/ToDoList.dir/main.cpp.o -c /home/varezhka/Documents/kursach/ToDoList/main.cpp",
+  "file": "/home/varezhka/Documents/kursach/ToDoList/main.cpp",
+  "output": "CMakeFiles/ToDoList.dir/main.cpp.o"
+},
+{
+  "directory": "/home/varezhka/Documents/kursach/ToDoList/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/varezhka/Documents/kursach/ToDoList/build/ToDoList_autogen/include -I/home/varezhka/Documents/kursach/ToDoList -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -std=gnu++17 -fPIC -o CMakeFiles/ToDoList.dir/task.cpp.o -c /home/varezhka/Documents/kursach/ToDoList/task.cpp",
+  "file": "/home/varezhka/Documents/kursach/ToDoList/task.cpp",
+  "output": "CMakeFiles/ToDoList.dir/task.cpp.o"
+},
+{
+  "directory": "/home/varezhka/Documents/kursach/ToDoList/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/varezhka/Documents/kursach/ToDoList/build/ToDoList_autogen/include -I/home/varezhka/Documents/kursach/ToDoList -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -std=gnu++17 -fPIC -o CMakeFiles/ToDoList.dir/form.cpp.o -c /home/varezhka/Documents/kursach/ToDoList/form.cpp",
+  "file": "/home/varezhka/Documents/kursach/ToDoList/form.cpp",
+  "output": "CMakeFiles/ToDoList.dir/form.cpp.o"
+}
+]

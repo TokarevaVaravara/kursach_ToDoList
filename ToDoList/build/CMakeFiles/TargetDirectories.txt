@@ -1,0 +1,9 @@
+/home/varezhka/Documents/kursach/ToDoList/build/CMakeFiles/ToDoList.dir
+/home/varezhka/Documents/kursach/ToDoList/build/CMakeFiles/edit_cache.dir
+/home/varezhka/Documents/kursach/ToDoList/build/CMakeFiles/rebuild_cache.dir
+/home/varezhka/Documents/kursach/ToDoList/build/CMakeFiles/list_install_components.dir
+/home/varezhka/Documents/kursach/ToDoList/build/CMakeFiles/install.dir
+/home/varezhka/Documents/kursach/ToDoList/build/CMakeFiles/install/local.dir
+/home/varezhka/Documents/kursach/ToDoList/build/CMakeFiles/install/strip.dir
+/home/varezhka/Documents/kursach/ToDoList/build/CMakeFiles/ToDoList_autogen_timestamp_deps.dir
+/home/varezhka/Documents/kursach/ToDoList/build/CMakeFiles/ToDoList_autogen.dir
